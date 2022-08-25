@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://duyu09.github.io/</id>
+    <title>Duyu09&apos;s TechBlog</title>
+    <updated>2022-08-25T15:27:06.558Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://duyu09.github.io/"/>
+    <link rel="self" href="https://duyu09.github.io/atom.xml"/>
+    <subtitle>We Can Free Talk About Computer Technology Here.</subtitle>
+    <logo>https://duyu09.github.io/images/avatar.png</logo>
+    <icon>https://duyu09.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Duyu09&apos;s TechBlog</rights>
+    <entry>
+        <title type="html"><![CDATA[Self Introduction of Duyu09]]></title>
+        <id>https://duyu09.github.io/post/self-introduction/</id>
+        <link href="https://duyu09.github.io/post/self-introduction/">
+        </link>
+        <updated>2022-08-25T13:11:36.000Z</updated>
+        <content type="html"><![CDATA[<p>🏳️‍🌈Hello everybody, my name's DuYu, I am a student from Qilu University of Technology, Faculty of Computer Science &amp; Technology.<br>
+<img src="https://duyu09.github.io//post-images/1661433509445.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+</feed>
